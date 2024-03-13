@@ -17,4 +17,14 @@
 - [Figma](https://www.figma.com/file/rah11smidv5eEEE3ZBRIzi/Untitled?type=design&node-id=4%3A20&mode=design&t=5kJl0kSeNyTX7BSY-1)<br />
 
 ## Сопутствующая проекту документация:
-- [Техническое задание](https://github.com/raf989/Music-Training/tree/main/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)<br /> 
+- [Техническое задание](https://github.com/raf989/Music-Training/tree/main/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)<br />
+
+ ## Сопутствующие проекту презентации:
+- [Видеопрезентация веб-приложения](https://github.com/raf989/Music-Training/tree/main/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE)<br />
+- [Презентация веб-приложения](https://github.com/raf989/Music-Training/tree/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20)<br />
+
+
+  ## Сопутствующие проекту презентации:
+- [Видеопрезентация веб-приложения](https://github.com/raf989/Music-Training/tree/main/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE)<br />
+- [Презентация веб-приложения](https://github.com/raf989/Music-Training/tree/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20)<br />
+
