@@ -1,27 +1,51 @@
-# TP
-Проект "Платформа для удаленного обучения музыке"<br />
+# Команда 6, группа 1, курс 3
+### Проект:
+Веб приложение для обчуения музыки "Music Trainee".
 
-## Выполняют студенты 1 группы:<br />
-* [Пьянин Ю.Г](https://github.com/bosonhiiggs) - **тимлид, архитектор, frontend и backend разработчик**<br />
-* [Мамедов Р.Э](https://github.com/raf989) - **продукт-менеджер, дизайнер, frontend и backend разработчик**<br />
+## Команда
+* [Пьянин Ю.Г](https://github.com/bosonhiiggs) - **тимлид, архитектор, frontend и backend разработчик**
+* [Мамедов Р.Э](https://github.com/raf989) - **продукт-менеджер, дизайнер, frontend и backend разработчик**
 
-## Описание проекта:<br />
-Это  приложение, которое дает возможность как пройти обучающие курсы, так и создать свои собственные. <br />
+## Описание проекта
+"Music Trainee" - это приложение, которое дает
+возможность как пройти обучающие курсы, так и создать
+свои собственные. Пользователи имеют возможность
+выражать свое мнение, оценивая курсы и делая
+комментарии, что делает процесс обучения более
+интерактивным и увлекательным. А преподавтели могут монетезировать свои знания и получить дополнительный источник дохода.
 
-## Сопроводительное письмо:
-- [Сопроводительное письмо](https://github.com/raf989/Music-Training/tree/main/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE)<br />
+### Цели и функционал приложения
+*Прилежение будет предоставлять следующий функционал:*
+- Просмотра каталога курсов;
+- Приобретение выбранных курсов;
+- Прохождение приобретенных курсов;
+- Создание курсов и их редактирование;
+- Оценивание курсов и написание комментариев к занятиям.
 
-## Сопутствующие проекту сервисы:
-- [Trello](https://trello.com/b/3VyvQdzn/%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B5)<br />
-- [Miro](https://miro.com/app/board/uXjVNiBhocU=/)<br />
-- [Figma](https://www.figma.com/file/rah11smidv5eEEE3ZBRIzi/Untitled?type=design&node-id=4%3A20&mode=design&t=5kJl0kSeNyTX7BSY-1)<br />
+*Цели создания нашего приложения*:
+- Создание платформы для наполнения музыкальными курсами;
+- Разработка рейтинговой системы для курсов с возмоностью оценивания курсов пользователями;
+- Внедренние возможности комментирования занятий, из которых будут создаваться курсы.
+
+## Сведенья о проекте
+- [Trello](https://trello.com/b/3VyvQdzn/%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B5) - сервис для управления проектом веб-приложения;
+- [Miro](https://miro.com/app/board/uXjVNiBhocU=/) - виртуальная масштабируемая доска веб-приложения;
+- [Figma](https://www.figma.com/file/rah11smidv5eEEE3ZBRIzi/Untitled?type=design&node-id=4%3A20&mode=design&t=5kJl0kSeNyTX7BSY-1) - дизайн страниц веб-приложения.
+
+### Средства реализации:
+- Frontend: HTML+CSS, FLUTTER;
+- Backend: Django, Django REST Framework;
+- СУБД:SQLite, PostgreSQL;
+- Развертывание: Docker, Docker-Compose;
+- Диаграммы: Miro, DrawIO.
 
 ## Сопутствующая проекту документация:
-- [Техническое задание](https://github.com/raf989/Music-Training/tree/main/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)<br />
+- [Техническое задание](https://github.com/raf989/Music-Training/tree/main/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)
+- [Оформительские задачи](https://github.com/raf989/Music-Training/tree/main/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE)
 
  ## Сопутствующие проекту презентации:
-- [Видеопрезентация веб-приложения](https://github.com/raf989/Music-Training/tree/main/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE)<br />
-- [Презентация веб-приложения](https://github.com/raf989/Music-Training/tree/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20)<br />
+- [Видеопрезентация веб-приложения](https://github.com/raf989/Music-Training/tree/main/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE)
+- [Презентация веб-приложения](https://github.com/raf989/Music-Training/tree/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20)
 
 
 
