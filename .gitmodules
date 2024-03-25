@@ -1,3 +1,6 @@
 [submodule "MT-Client"]
 	path = MT-Client
 	url = git@github.com:bosonhiiggs/MT-Client.git
+[submodule "MT-Server"]
+	path = MT-Server
+	url = git@github.com:bosonhiiggs/MT-Server.git
