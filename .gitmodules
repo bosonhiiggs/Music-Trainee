@@ -1,0 +1,3 @@
+[submodule "MT-Client"]
+	path = MT-Client
+	url = git@github.com:bosonhiiggs/MT-Client.git
