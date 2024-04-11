@@ -1,10 +1,12 @@
 # Команда 6, группа 1, курс 3
 ### Проект:
-Веб приложение для обчуения музыки "Music Trainee".
+Веб приложение для обчуения музыке "Music Trainee".
 
 ## Команда
-* [Пьянин Ю.Г](https://github.com/bosonhiiggs) - **тимлид, архитектор, frontend и backend разработчик**
-* [Мамедов Р.Э](https://github.com/raf989) - **продукт-менеджер, дизайнер, frontend и backend разработчик**
+* [Пьянин Ю.Г](https://github.com/bosonhiiggs) - **teamlead, архитектор, backend разработчик;**
+* [Мамедов Р.Э](https://github.com/raf989) - **project-manager, UX/UI дизайнер, frontend разработчик;**
+* [Ражев А. Д.]() - **frontend разработчик;**
+* [Хованская А. Р.]() - **UX/UI дизайнер**.
 
 ## Описание проекта
 "Music Trainee" - это приложение, которое дает
@@ -35,7 +37,7 @@
 ### Средства реализации:
 - Frontend: HTML+CSS, FLUTTER;
 - Backend: Django, Django REST Framework;
-- СУБД:SQLite, PostgreSQL;
+- СУБД: SQLite, PostgreSQL;
 - Развертывание: Docker, Docker-Compose;
 - Диаграммы: Miro, DrawIO.
 
@@ -46,6 +48,3 @@
  ## Сопутствующие проекту презентации:
 - [Видеопрезентация веб-приложения](https://github.com/raf989/Music-Training/tree/main/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE)
 - [Презентация веб-приложения](https://github.com/raf989/Music-Training/tree/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20)
-
-
-
