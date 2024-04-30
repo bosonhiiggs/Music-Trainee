@@ -48,3 +48,4 @@
  ## Сопутствующие проекту презентации:
 - [Видеопрезентация веб-приложения](https://github.com/raf989/Music-Training/tree/main/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE)
 - [Презентация веб-приложения](https://github.com/raf989/Music-Training/tree/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20)
+- [Видеопрезентация веб-приложения (YouTube)](https://www.youtube.com/watch?v=sZLeYwRNSvc&ab_channel=ART)
