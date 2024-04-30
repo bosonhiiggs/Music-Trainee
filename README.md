@@ -1,6 +1,6 @@
 # Команда 6, группа 1, курс 3
 ### Проект:
-Веб приложение для обчуения музыке "Music Trainee".
+Мобильное приложение для обчуения музыке "Music Trainee".
 
 ## Команда
 * [Пьянин Ю.Г](https://github.com/bosonhiiggs) - **teamlead, архитектор, backend разработчик;**
@@ -35,7 +35,7 @@
 - [Figma](https://www.figma.com/file/rah11smidv5eEEE3ZBRIzi/Untitled?type=design&node-id=4%3A20&mode=design&t=5kJl0kSeNyTX7BSY-1) - дизайн страниц веб-приложения.
 
 ### Средства реализации:
-- Frontend: HTML+CSS, FLUTTER;
+- Frontend: Dart, FLUTTER;
 - Backend: Django, Django REST Framework;
 - СУБД: SQLite, PostgreSQL;
 - Развертывание: Docker, Docker-Compose;
