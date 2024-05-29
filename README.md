@@ -33,6 +33,10 @@
 - [Trello](https://trello.com/b/3VyvQdzn/%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B5) - сервис для управления проектом мобильного приложения;
 - [Miro](https://miro.com/app/board/uXjVNiBhocU=/) - виртуальная масштабируемая доска мобильного приложения;
 - [Figma](https://www.figma.com/file/rah11smidv5eEEE3ZBRIzi/Untitled?type=design&node-id=4%3A20&mode=design&t=5kJl0kSeNyTX7BSY-1) - дизайн страниц мобильного приложения.
+- [AppMetrica](https://appmetrica.yandex.ru/overview?appId=4594774&period=week&group=day&currency=rub&accuracy=medium&sampling=1&filters=%7B) - трекинг и аналитика нашего приложения.
+ #### Для просмотра информации в AppMetrica войти через:
+  Логин: ARTRetrowave@yandex.ru
+  Пароль: 78523654159
 
 ### Средства реализации:
 - Frontend:  FLUTTER;
