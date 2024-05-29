@@ -1,12 +1,12 @@
-# Команда 6, группа 1, курс 3
+![image](https://github.com/raf989/Music-Training/assets/71867333/6fdf7682-49b8-4d4e-97cf-ae2324ec8901)# Команда 6, группа 1, курс 3
 ### Проект:
-Мобильное приложение для обчуения музыке "Music Trainee".
+Мобильное приложение для обучения музыке "Music Trainee".
 
 ## Команда
-* [Пьянин Ю.Г](https://github.com/bosonhiiggs) - **teamlead, архитектор, backend разработчик;**
+* [Пьянин Ю.Г](https://github.com/bosonhiiggs) - **teamlead, архитектор, backend разработчик, техический писатель;**
 * [Мамедов Р.Э](https://github.com/raf989) - **project-manager, UX/UI дизайнер, frontend разработчик;**
-* [Ражев А. Д.]() - **frontend разработчик;**
-* [Хованская А. Р.]() - **UX/UI дизайнер**.
+* [Ражев А. Д.](https://github.com/ArtRetro) - **frontend разработчик;**
+* [Хованская А. Р.](https://github.com/HovsicAnastasia) - **Технический писатель, UX/UI дизайнер**.
 
 ## Описание проекта
 "Music Trainee" - это приложение, которое дает
@@ -14,7 +14,7 @@
 свои собственные. Пользователи имеют возможность
 выражать свое мнение, оценивая курсы и делая
 комментарии, что делает процесс обучения более
-интерактивным и увлекательным. А преподавтели могут монетезировать свои знания и получить дополнительный источник дохода.
+интерактивным и увлекательным. А преподаватели могут монетизировать свои знания и получить дополнительный источник дохода.
 
 ### Цели и функционал приложения
 *Прилежение будет предоставлять следующий функционал:*
@@ -29,13 +29,13 @@
 - Разработка рейтинговой системы для курсов с возмоностью оценивания курсов пользователями;
 - Внедренние возможности комментирования занятий, из которых будут создаваться курсы.
 
-## Сведенья о проекте
-- [Trello](https://trello.com/b/3VyvQdzn/%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B5) - сервис для управления проектом веб-приложения;
-- [Miro](https://miro.com/app/board/uXjVNiBhocU=/) - виртуальная масштабируемая доска веб-приложения;
-- [Figma](https://www.figma.com/file/rah11smidv5eEEE3ZBRIzi/Untitled?type=design&node-id=4%3A20&mode=design&t=5kJl0kSeNyTX7BSY-1) - дизайн страниц веб-приложения.
+## Сведения о проекте
+- [Trello](https://trello.com/b/3VyvQdzn/%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B5) - сервис для управления проектом мобильного приложения;
+- [Miro](https://miro.com/app/board/uXjVNiBhocU=/) - виртуальная масштабируемая доска мобильного приложения;
+- [Figma](https://www.figma.com/file/rah11smidv5eEEE3ZBRIzi/Untitled?type=design&node-id=4%3A20&mode=design&t=5kJl0kSeNyTX7BSY-1) - дизайн страниц мобильного приложения.
 
 ### Средства реализации:
-- Frontend: Dart, FLUTTER;
+- Frontend:  FLUTTER;
 - Backend: Django, Django REST Framework;
 - СУБД: SQLite, PostgreSQL;
 - Развертывание: Docker, Docker-Compose;
@@ -46,6 +46,6 @@
 - [Оформительские задачи](https://github.com/raf989/Music-Training/tree/main/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE)
 
  ## Сопутствующие проекту презентации:
-- [Видеопрезентация веб-приложения](https://github.com/raf989/Music-Training/tree/main/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE)
-- [Презентация веб-приложения](https://github.com/raf989/Music-Training/tree/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20)
-- [Видеопрезентация веб-приложения (YouTube)](https://www.youtube.com/watch?v=sZLeYwRNSvc&ab_channel=ART)
+- [Видеопрезентация мобильное приложения](https://github.com/raf989/Music-Training/tree/main/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE)
+- [Презентация мобильное приложения](https://github.com/raf989/Music-Training/tree/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20)
+- [Видеопрезентация мобильное приложения (YouTube)](https://www.youtube.com/watch?v=sZLeYwRNSvc&ab_channel=ART)
