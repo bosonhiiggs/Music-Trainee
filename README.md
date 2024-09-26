@@ -8,6 +8,10 @@
 * [Ражев А. Д.](https://github.com/ArtRetro) - **frontend разработчик;**
 * [Хованская А. Р.](https://github.com/HovsicAnastasia) - **Технический писатель, UX/UI дизайнер**.
 
+## Репозитории клиента и сервера
+* [Клиентская часть - Frontend] (https://github.com/bosonhiiggs/MT-Client/tree/develop)
+* [Серверная часть - Backend] (https://github.com/bosonhiiggs/MT-Server/tree/develop)
+
 ## Описание проекта
 "Music Trainee" - это приложение, которое дает
 возможность как пройти обучающие курсы, так и создать
