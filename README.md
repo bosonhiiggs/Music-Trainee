@@ -9,7 +9,7 @@
 * [Хованская А. Р.](https://github.com/HovsicAnastasia) - **Технический писатель, UX/UI дизайнер**.
 
 ## Репозитории клиента и сервера
-* * [Клиентская часть - Frontend] (https://github.com/bosonhiiggs/MT-Client/tree/develop)
+* [Клиентская часть - Frontend] (https://github.com/bosonhiiggs/MT-Client/tree/develop)
 * [Серверная часть - Backend] (https://github.com/bosonhiiggs/MT-Server/tree/develop)
 
 ## Описание проекта
