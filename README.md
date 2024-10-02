@@ -2,6 +2,9 @@
 ### Проект:
 Мобильное приложение для обучения музыке "Music Trainee".
 
+APK файл для установвки приложения
+[Music Trainee](https://disk.yandex.ru/d/EkvLlvFP6WDFmA)
+
 ## Команда
 * [Пьянин Ю.Г](https://github.com/bosonhiiggs) - **teamlead, архитектор, backend разработчик, техический писатель;**
 * [Мамедов Р.Э](https://github.com/raf989) - **project-manager, UX/UI дизайнер, frontend разработчик;**
