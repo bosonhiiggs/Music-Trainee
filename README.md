@@ -3,7 +3,7 @@
 Мобильное приложение для обучения музыке "Music Trainee".
 
 APK файл для установвки приложения
-[Music Trainee](https://disk.yandex.ru/d/RT33WDh-ovQV5A)
+[Music Trainee](https://disk.yandex.ru/d/MmjaQ124I9_CPg)
 
 ## Команда
 * [Пьянин Ю.Г](https://github.com/bosonhiiggs) - **teamlead, архитектор, backend разработчик, техический писатель;**
