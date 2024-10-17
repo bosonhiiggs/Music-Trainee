@@ -2,7 +2,7 @@
 ### Проект:
 Мобильное приложение для обучения музыке "Music Trainee".
 
-APK файл для установвки приложения
+APK файл для установки приложения
 [Music Trainee](https://github.com/raf989/Music-Training/releases/tag/v1.0.3)
 
 ## Команда
