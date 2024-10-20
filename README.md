@@ -60,7 +60,7 @@ APK файл для установки приложения
 
 ![image](https://github.com/user-attachments/assets/33d8a5f9-575b-41fa-9ff0-4d44a5973d26)
 
-### Средства реализации:
+## Средства реализации:
 - Frontend:  FLUTTER;
 - Backend: Django, Django REST Framework;
 - СУБД: SQLite, PostgreSQL;
