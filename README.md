@@ -3,9 +3,7 @@
 Мобильное приложение для обучения музыке "Music Trainee".
 
 APK файл для установки приложения
-[Music Trainee](https://github.com/raf989/Music-Training/releases/tag/v1.0.3)
-
-[Music Trainee](https://github.com/raf989/Music-Training/releases/tag/v1.0.3)
+[Music Trainee](https://github.com/raf989/Music-Training/releases/tag/v1.0.4)
 #### Обычный пользователь:
 - <b>Имя пользователя</b>: bosonhiiggs; 
 - <b>Пароль</b>: qwerty;
@@ -56,9 +54,18 @@ APK файл для установки приложения
 - [Miro](https://miro.com/app/board/uXjVNiBhocU=/) - виртуальная масштабируемая доска мобильного приложения;
 - [Figma](https://www.figma.com/file/rah11smidv5eEEE3ZBRIzi/Untitled?type=design&node-id=4%3A20&mode=design&t=5kJl0kSeNyTX7BSY-1) - дизайн страниц мобильного приложения.
 - [AppMetrica](https://appmetrica.yandex.ru/overview?appId=4594774&period=week&group=day&currency=rub&accuracy=medium&sampling=1&filters=%7B) - трекинг и аналитика нашего приложения.
+
+## Метрика
  #### Для просмотра информации в AppMetrica войти через:
   Логин: ARTRetrowave@yandex.ru
   Пароль: 78523654159
+
+  ![image](https://github.com/user-attachments/assets/fd2ccde8-1e11-4389-9b4b-add0a92f31f2)
+  ![image](https://github.com/user-attachments/assets/779a4888-10da-4d0d-bec7-acbebc5ad92c)
+  ### Воронки
+  ![image](https://github.com/user-attachments/assets/32c59c27-994f-4041-954f-370c65231f0e)
+  ![image](https://github.com/user-attachments/assets/e40d7ecc-1655-452d-958c-2edd1b92f8cc)
+  ![image](https://github.com/user-attachments/assets/33d8a5f9-575b-41fa-9ff0-4d44a5973d26)
 
 ### Средства реализации:
 - Frontend:  FLUTTER;
