@@ -5,6 +5,13 @@
 APK файл для установки приложения
 [Music Trainee](https://github.com/raf989/Music-Training/releases/tag/v1.0.3)
 
+#### Обычный пользователь:
+- <b>Имя пользователя</b>: bosonhiiggs; 
+- <b>Пароль</b>: qwerty;
+#### Модератор:
+- <b>Имя пользователя</b>: admin; 
+- <b>Пароль</b>: 123.
+
 ## Команда
 * [Пьянин Ю.Г](https://github.com/bosonhiiggs) - **teamlead, архитектор, backend разработчик, техический писатель;**
 * [Мамедов Р.Э](https://github.com/raf989) - **project-manager, UX/UI дизайнер, frontend разработчик;**
@@ -58,4 +65,3 @@ APK файл для установки приложения
 
  ## Сопутствующие проекту презентации:
 - [Видеопрезентация мобильное приложения](https://github.com/raf989/Music-Training/tree/main/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE)
-- [Видеопрезентация мобильное приложения (YouTube)](https://www.youtube.com/watch?v=sZLeYwRNSvc&ab_channel=ART)
